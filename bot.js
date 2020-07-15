@@ -29,5 +29,5 @@ if(message.content.startsWith(prefix + 'cerveza')) {
  
  });
  
- client.login('NzMyNzM5Mjg3MTYyMDI4MDYy.Xw5HNw.bnVxDRYe1TNQ7889yuin5ias4xM');
+client.login(process.env.BOT_TOKEN);
  
